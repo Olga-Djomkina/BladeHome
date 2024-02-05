@@ -1,5 +1,5 @@
 {
     "require": {
-        "illuminate/view": "^5.8"
+        "illuminate/view": "^6.20"
     }
 }
